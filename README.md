@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandoval Alejo</h1>
-<h3 align="center">A passionate bacckend developer from Argentina</h3>
+<h3 align="center">A passionate backend developer from Argentina</h3>
 
 - 🌱 I’m currently learning **TypeScript, React.Js, Node.JS and Nest.JS**
 
